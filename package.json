@@ -1,0 +1,15 @@
+{
+  "name": "hexo-site",
+  "version": "0.0.0",
+  "private": true,
+  "hexo": {
+    "version": ""
+  },
+  "dependencies": {
+    "hexo": "^3.1.1",
+    "hexo-migrator-wordpress": "~0.1.0",
+    "hexo-migrator-image": "~1.0.3",
+    "hexo-generator-sitemap": "~0.1.2",
+    "hexo-generator-feed": "~0.1.1"
+  }
+}
